@@ -1,0 +1,15 @@
+{% include header.html %}
+	
+{% include masthead_inner.html %}
+	
+<div class="container">
+		
+	<div id="content" class="post">
+		<h1 class="posttitle">{{ page.title }}</h1>
+		<p class="date articledate">{{ page.date | date:"%B %e, %Y" }}</p>
+	
+		{{ content }}
+	</div> <!-- /content -->
+</div> <!-- /container -->
+
+{% include footer.html %}

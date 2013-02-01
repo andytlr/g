@@ -1,0 +1,101 @@
+body {
+	background: #fff;
+	font-family: 'Vollkorn', serif;
+	-webkit-font-smoothing: antialiased;
+}
+
+#posts {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#posts li {
+	width: 300px;
+	height: 300px;
+	display: block;
+	background: #fbfbfb;
+	overflow: hidden;
+	float: left;
+}
+
+	#posts li.noimage:nth-of-type(1) {
+		background: pink;
+	}
+
+	#posts li.noimage:nth-of-type(2) {
+		background: blue;
+	}
+
+	#posts li.noimage:nth-of-type(3) {
+		background: green;
+	}
+
+	#posts li.noimage:nth-of-type(4) {
+		background: lime;
+	}
+
+#posts li img {
+	width: 100%;
+	height: auto;
+}
+	
+.posttileinner {
+	padding: 20px;
+	min-height: 300px;
+}
+
+.hasimage .posttileinner {
+	display: none;
+	color: #fff;
+	background: #000;
+	background: rgba(0,0,0,0.7);
+}
+
+.hasimage:hover .posttileinner {
+	display: block !important;
+}
+
+#posts li.noimage:hover {
+	background: #000;
+	color: #fff;
+}
+
+#posts li.noimage:hover .tiletitle a {
+	color: #fff;
+}
+	
+.container {
+/*	width: 900px;*/
+	margin: 0 auto;
+}
+
+.boxlink {
+	width: 300px;
+	height: 300px;
+	display: block;
+/*	background: rgba(255,0,0,0.5);*/
+	position: absolute;
+}
+
+/*Headings*/
+
+	/*Main site title*/
+		.sitetitle {
+			font-size: 24px;
+		}
+
+	/*Article title in homepage tile*/
+		.tiletitle {
+			font-size: 24px;
+			margin: 0 0 10px 0;
+		}
+		
+		.tiletitle a {
+			color: #000;
+			text-decoration: none;
+		}
+		
+		.hasimage .posttileinner .tiletitle a {
+			color: #fff;
+		}

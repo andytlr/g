@@ -1,0 +1,43 @@
+{% include header.html %}
+
+	{% include masthead_home.html %}
+
+	<div class="container">
+		
+	<div id="content">
+		
+		{{ content }}
+		
+
+		
+		
+		
+		<ul id="posts">
+		{% for post in site.posts %}
+		
+			{% if post.image %}
+			<li class="hasimage" style="background: url({{ post.image }})">
+			{% else %}
+			<li class="noimage">
+			{% endif %}
+				
+				<a class="boxlink" href="{{ post.url }}"></a>
+				
+				<div class="posttileinner">
+					<h2 class="tiletitle"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+					{% if post.excerpt %}
+					{{ post.excerpt }}
+					{% endif %}
+				</div> <!-- /posttileinner -->
+			
+			</li>
+		
+		{% endfor %}
+		</ul>
+		
+		
+
+	</div> <!--/content-->
+	</div> <!--/container-->
+	
+{% include footer.html %}
