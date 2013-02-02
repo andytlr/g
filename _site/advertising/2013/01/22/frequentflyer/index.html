@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	
+	<title>ANZ Take A Walk In New York &mdash; Gareth Sweet, Word Man About Town.</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="stylesheet" href="/assets/normalize.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/styles.css" type="text/css" />
+	<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
+	<meta name="description" content="" />
+	<script type="text/javascript" src="//use.typekit.net/yjq5zjx.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	
+	<!-- jQuery -->
+	<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
+
+</head>
+<body>
+	
+<div class="container">
+	<div id="masthead">
+	<h2 class="sitetitle"><a href="/" class="sitetitle">Gareth Sweet, Word Man About Town.</a></h2>
+	<div id="nav">
+	
+	<h1 class="sitetitle"><a href="/" class="sitetitle">Gareth Sweet, Word Man About Town.</a></h1>
+	
+	<ul id="pagenav">
+		<li><a href="/">Home</a></li>
+		<li><a href="/about">About</a></li>
+	</ul>
+
+	<ul id="filtering">
+		<li>Filter:</li>
+		<li><a href="#" data-filter=".article">Articles</a></li>
+		<li><a href="#" data-filter=".advertising">Advertising</a></li>
+		<li><a href="#" data-filter=".review">Reviews</a></li>
+		<li><a href="#" data-filter="*">All</a></li>
+	</ul>
+
+	
+	<ul id="piecenav">
+		
+		<li><a href="/advertising/2013/01/22/iprimus/">Newer</a></li>
+		
+		
+		<li><a href="/advertising/2013/01/22/fraudsquad/">Older</a></li>
+		
+		<li><a href="/">All work</a></li>
+	</ul>
+	
+</div>
+</div> <!--/masthead-->
+
+		
+	<div id="content" class="post">
+		<div class="contentinner">
+			<h1 class="posttitle">ANZ Take A Walk In New York</h1>
+			<iframe width="500" height="281" src="http://player.vimeo.com/video/25179898 " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+<h3 id="problem">Problem</h3>
+
+<p>Encourage people to open an ANZ Frequent Flyer credit card by promoting the benefit of receiving 16,000 bonus Qantas Frequent Flyer points.</p>
+
+<h3 id="solution">Solution</h3>
+
+<p>We created a page take over that, when clicked, gave people the experience of walking through New York. This was done using a video that allowed users to use their mouse to click and drag the image and rotate the view a full 360 degrees as it played.</p>
+
+		</div>
+	</div> <!-- /content -->
+</div> <!-- /container -->
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-XXXXXXX-X']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<!-- jQuery Isotope -->
+<script type='text/javascript' src='/assets/jquery.isotope.min.js'></script>
+	
+<script type='text/javascript'>
+
+// cache container
+var $container = $('#posts');
+// initialize isotope
+$container.isotope({
+  // options...
+});
+
+// filter items when filter link is clicked
+$('#filtering a').click(function(){
+  var selector = $(this).attr('data-filter');
+  $container.isotope({ filter: selector });
+  return false;
+});
+	
+</script>
+
+</body>
+</html>

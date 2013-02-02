@@ -12,5 +12,26 @@
 </script>
 {% endif %}
 
+<!-- jQuery Isotope -->
+<script type='text/javascript' src='{{ site.baseurl }}assets/jquery.isotope.min.js'></script>
+	
+<script type='text/javascript'>
+
+// cache container
+var $container = $('#posts');
+// initialize isotope
+$container.isotope({
+  // options...
+});
+
+// filter items when filter link is clicked
+$('#filtering a').click(function(){
+  var selector = $(this).attr('data-filter');
+  $container.isotope({ filter: selector });
+  return false;
+});
+	
+</script>
+
 </body>
 </html>

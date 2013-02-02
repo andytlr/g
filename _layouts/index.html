@@ -1,24 +1,19 @@
 {% include header.html %}
 
-	{% include masthead_home.html %}
-
 	<div class="container">
+	{% include masthead_home.html %}
 		
 	<div id="content">
 		
 		{{ content }}
-		
 
-		
-		
-		
 		<ul id="posts">
 		{% for post in site.posts %}
 		
 			{% if post.image %}
-			<li class="hasimage" style="background: url({{ post.image }})">
+			<li class="hasimage {{ post.category }}" style="background: url({{ post.image }})">
 			{% else %}
-			<li class="noimage">
+			<li class="noimage {{ post.category }}">
 			{% endif %}
 				
 				<a class="boxlink" href="{{ post.url }}"></a>
