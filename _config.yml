@@ -2,7 +2,7 @@ safe:        false
 auto:        false
 server:      false
 server_port: 4000
-baseurl:     /
+baseurl:     
 name: Gareth Sweet, Word Man About Town
 url: http://garethsweet.com
 google-analytics-tracking-id: UA-XXXXXXX-X

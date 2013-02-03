@@ -8,17 +8,15 @@ category:		advertising
 published:	true
 ---
 
+ANZ, one of Australia’s biggest banks, asked us to develop an online campaign to launch their Fraud Money Back Guarantee. The guarantee promises that if your account details are stolen and used fraudulently, the bank will refund any loss.
+
 {% vimeo 25017819 %}
 
-{% vimeo 25017796 %}
+<!-- {% vimeo 25017796 %}
 
 {% vimeo 25017780 %}
 
-{% vimeo 25017745 %}
-
-### The problem ###
-
-ANZ, one of Australia’s biggest banks, asked us to develop an online campaign to launch their Fraud Money Back Guarantee. The guarantee promises that if your account details are stolen and used fraudulently, the bank will refund any loss.
+{% vimeo 25017745 %} -->
 
 ### The solution
 

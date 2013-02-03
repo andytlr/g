@@ -8,31 +8,21 @@ category:		advertising
 published:	true
 ---
 
+As a major sponsor of The Australian Open, ANZ wanted something new and innovative to boost footfall in their corporate area and generate free publicity, a big ask considering people go to The Open to watch the tennis, not to visit a bank.
+
 {% vimeo 25017266 %}
+
+### The solution ###
+
+ANZ gave tennis fans a once in a lifetime opportunity - the chance to play one-on-one against Australia’s top ranked player -- Sam Stosur.
+
+Using Sam, we shot and created a live action 3D tennis game that was played on a specially built indoor tennis court inside the corporate area.
 
 ![]({{ site.baseurl }}img/sam1.jpg)
 
 ![]({{ site.baseurl }}img/sam2.jpg)
 
 ![]({{ site.baseurl }}img/sam3.jpg)
-
-![]({{ site.baseurl }}img/sam4.jpg)
-
-![]({{ site.baseurl }}img/sam5.jpg)
-
-![]({{ site.baseurl }}img/sam6.jpg)
-
-![]({{ site.baseurl }}img/sam7.jpg)
-
-### The problem ###
-
-As a major sponsor of The Australian Open, ANZ wanted something new and innovative to boost footfall in their corporate area and generate free publicity, a big ask considering people go to The Open to watch the tennis, not to visit a bank.
-
-### The solution
-
-ANZ gave tennis fans a once in a lifetime opportunity - the chance to play one-on-one against Australia’s top ranked player -- Sam Stosur.
-
-Using Sam, we shot and created a live action 3D tennis game that was played on a specially built indoor tennis court inside the corporate area.
 
 ### How it worked ###
 
@@ -45,10 +35,18 @@ Based on this information, a shot would be played to Sam. The shots included sev
 After each serve, Sam would comment on the shot played.
 
 Then, after the three serves, based on how well they’d played, she’d give her opinion on the player’s overall performance. In all, the game contained more than 14,000 unique player experiences.
-			
+
+![]({{ site.baseurl }}img/sam4.jpg)
+
+![]({{ site.baseurl }}img/sam5.jpg)
+
 ### Results ###
 
 * More than 24,000 visitors
 * 15% increase in footfall over previous year
 * $1.3 million worth of free media coverage
 * 983% ROI
+
+![]({{ site.baseurl }}img/sam6.jpg)
+
+![]({{ site.baseurl }}img/sam7.jpg)
