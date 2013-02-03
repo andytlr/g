@@ -6,7 +6,7 @@ excerpt:	Things take a turn for the hilarious when some lone acid casualty, leap
 category:	reviews
 ---
 
-*Featured in InPress*
+*Featured in exPress*
 
 Tuesday night was beard night at the Toff, with every record collector and dude in a bedroom noise band in Melbourne, staking out a chair at the Toff to see Acid Mothers Temple Guru Guru. At least that's what it was supposed to be, but apparently The Acid Mothers Temple guys got stuck in Japan, fighting giant flying squid or making niche fetish porn or howling at the moon or something. So tonight, it was just gonna be Guru Guru.
 

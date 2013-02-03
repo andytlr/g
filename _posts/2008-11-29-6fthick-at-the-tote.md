@@ -4,6 +4,8 @@ date:			2008-11-29
 title:		6FtHick at The Tote
 excerpt:	...the band sounded like the Sex Pistols if they had been good, the Dead Kennedys who were always good and The Jesus Lizard who could plunge small African nations into famine and still be good.
 category:	reviews
+published:	false
+
 ---
 
 *Featured in InPress*
