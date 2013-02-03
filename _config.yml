@@ -5,7 +5,6 @@ server_port: 4000
 baseurl:     /
 name: Gareth Sweet, Word Man About Town
 url: http://garethsweet.com
-domain: garethsweet.com
 google-analytics-tracking-id: UA-XXXXXXX-X
 
 source:      .
