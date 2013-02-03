@@ -1,10 +1,11 @@
 ---
-layout: post
-date: 2013-01-21 21:47:46
-title: ANZ Sneaky Thief
-image: ../img/fraudsquad_thumb.jpg
-excerpt: Campaign
-category: advertising
+layout:			post
+date:				2013-01-21 21:47:46
+title:			ANZ Sneaky Thief
+image:			../img/fraudsquad_thumb.jpg
+excerpt:		Campaign
+category:		advertising
+published:	true
 ---
 
 {% vimeo 25017819 %}

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	
+	<title>Soothers Sounds &mdash; Gareth Sweet, Word Man About Town</title>
+	<meta name="viewport" content="width=1000px"/>
+	<link rel="stylesheet" href="/assets/normalize.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/styles.css" type="text/css" />
+	<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
+	<meta name="description" content="" />
+	<script type="text/javascript" src="//use.typekit.net/yjq5zjx.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	
+	<!-- jQuery -->
+	<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
+
+</head>
+<body>
+	
+<div class="container">
+	<div id="masthead">
+	<div id="nav">
+	
+	<ul id="pagenav">
+		<li><h1 class="sitetitle"><a href="/" class="sitetitle">Gareth Sweet, Word Man About Town</a></h1></li>
+		<li><a href="/about">About &amp; Contact</a></li>
+	</ul>
+
+	<ul id="filtering">
+		<li>Filter:</li>
+		<li><a href="#" data-filter=".articles">Articles</a></li>
+		<li><a href="#" data-filter=".advertising">Advertising</a></li>
+		<li><a href="#" data-filter=".reviews">Reviews</a></li>
+		<li><a href="#" data-filter="*">All</a></li>
+	</ul>
+
+	
+	<ul id="piecenav">
+		
+		<li><a href="/advertising/youtube">&larr; Newer</a></li>
+		
+		
+		<li><a href="/advertising/samaserve">Older &rarr;</a></li>
+		
+		<li><a href="/">All work</a></li>
+	</ul>
+	
+</div>
+</div> <!--/masthead-->
+
+		
+	<div id="content" class="post">
+		<div class="contentinner">
+			<h1 class="posttitle">Soothers Sounds</h1>
+			<!-- ### Target Audience ###
+
+Gen Y music lovers and avid smart phone users.
+
+### Problem ### -->
+
+<p>Most people only ever think about Soothers when they have a cold.</p>
+
+<p>However there’s more than one reason for a dry, sore throat – and young music lovers know this better than most.</p>
+
+<p>But how do you reach such a notoriously fickle target audience, in a way they wouldn’t dismiss offhand as an obvious and transparent marketing ploy?</p>
+
+<p><img src="/img/soothers1.jpg" alt="" /></p>
+
+<h3 id="objective">Objective</h3>
+
+<p>Promote Soothers Pop-Up Concerts, in which famous artists play in unusual venues, to small audiences at short notice.</p>
+
+<p>Make the idea of Soothers Pop-Up Concerts accessible to a much larger audience – thus strengthening young music lovers association between music and Soothers.</p>
+
+<p><img src="/img/soothers2.jpg" alt="" /></p>
+
+<h3 id="solution">Solution</h3>
+
+<p>We created Soothers-Sounds.com.au, a mobile site that allowed people to create their very own ‘Virtual’ Pop-Up Concert in order to immortalise a time and place that was special to them.</p>
+
+<p>Users chose a location for their Virtual Concert using the Google Maps API, gave it a name, and wrote a short description explaining why it was special to them. Then, and here’s the fun part, using YouTube, they chose five songs that related to the theme of their concert and brought it to life all on their mobile.</p>
+
+<p><img src="/img/soothers3.jpg" alt="" /></p>
+
+<p>To make it even more fun and accessible, we built an Augmented Reality application. In addition to having all of the functionality of the mobile site, it used Layar technology to allow users to create, view and interact with the Virtual Concerts in the ‘real world’ – through the camera of their iPhone or Android phone.</p>
+
+<h3 id="results">Results</h3>
+
+<p>Since April, when the mobile site went live:</p>
+
+<ul>
+  <li>Site visitors: 15,472</li>
+  <li>Page views: 42,947</li>
+  <li>Average dwell time on site: 4.07 minutes, well above the industry average of 2.25 minutes.</li>
+</ul>
+
+		</div>
+	</div> <!-- /content -->
+</div> <!-- /container -->
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-XXXXXXX-X']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<!-- jQuery Isotope -->
+<script type='text/javascript' src='/assets/jquery.isotope.min.js'></script>
+	
+<script type='text/javascript'>
+
+// cache container
+var $container = $('#posts');
+// initialize isotope
+$container.isotope({
+  // options...
+});
+
+// filter items when filter link is clicked
+$('#filtering a').click(function(){
+  var selector = $(this).attr('data-filter');
+  $container.isotope({ filter: selector });
+  return false;
+});
+	
+</script>
+
+</body>
+</html>

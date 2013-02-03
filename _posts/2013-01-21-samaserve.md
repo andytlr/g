@@ -1,10 +1,11 @@
 ---
-layout: post
-date: 2013-01-21 21:47:46
-title: ANZ Give Sam A Serve
-image: ../img/sam_thumb.png
-excerpt: Campaign
-category: advertising
+layout:			post
+date:				2013-01-21 21:47:46
+title:			ANZ Give Sam A Serve
+image:			../img/sam_thumb.png
+excerpt:		Campaign
+category:		advertising
+published:	true
 ---
 
 {% vimeo 25017266 %}

@@ -3,9 +3,7 @@ auto:        false
 server:      false
 server_port: 4000
 baseurl:     /
-url: http://localhost:4000
-
-name: Gareth Sweet, Word Man About Town.
+name: Gareth Sweet, Word Man About Town
 url: http://garethsweet.com
 domain: garethsweet.com
 google-analytics-tracking-id: UA-XXXXXXX-X
@@ -18,8 +16,7 @@ future:      true
 lsi:         false
 pygments:    false
 markdown:    kramdown
-permalink:   pretty
-paginate:    10
+permalink:   /:categories/:title
 
 maruku:
   use_tex:    false

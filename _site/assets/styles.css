@@ -11,6 +11,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold !important;
 }
 
+a {
+	color: blue;
+}
+
+ul, ol {
+	padding: 0;
+}
+
 #posts {
 	list-style: none;
 	padding: 0;
@@ -26,11 +34,11 @@ h1, h2, h3, h4, h5, h6 {
 	float: left;
 }
 
-	#posts li.article {
+	#posts li.articles {
 		background: #247D87;
 	}
 	
-	#posts li.review {
+	#posts li.reviews {
 		background: #DA6516;
 	}
 
@@ -43,6 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 20px;
 	min-height: 300px;
 	color: #fff;
+	line-height: 1.4em;
 }
 
 .hasimage .posttileinner {
@@ -86,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 			color: #272d2c;
 			text-decoration: none;
 			display: block;
-			padding: 100px 0;
+
 		}
 
 	/*Article title in homepage tile*/
@@ -104,11 +113,6 @@ h1, h2, h3, h4, h5, h6 {
 			color: #fff;
 		}
 
-.container {
-	width: 300px;
-	margin: 0 auto;
-}
-
 #content {
 	clear: both;
 }
@@ -116,21 +120,15 @@ h1, h2, h3, h4, h5, h6 {
 .contentinner {
 	width: 500px;
 	margin: 0 auto;
+	padding: 0;
 }
 
-@media only screen and (min-width: 600px) {
-	.container {
-		width: 600px;
-	}
+.container {
+	width: 900px;
+	margin: 0 auto;
 }
 
-@media only screen and (min-width: 900px) {
-	.container {
-		width: 900px;
-	}
-}
-
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1300px) {
 	.container {
 		width: 1200px;
 	}
@@ -143,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom: 1px solid #DA6516;
 	line-height: 70px;
 	height: 70px;
-	margin-bottom: 50px;
+	margin: 100px 0;
 }
 
 #pagenav, #filtering, #piecenav {
@@ -176,6 +174,7 @@ h1, h2, h3, h4, h5, h6 {
 #pagenav li a, #filtering li a, #piecenav li a {
 	text-decoration: none;
 	color: #272d2c;
+	display: block;
 }
 
 /**** Isotope filtering ****/
