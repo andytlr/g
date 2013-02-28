@@ -1,6 +1,6 @@
 ---
 layout:			post
-date:				2013-01-21 21:47:46
+date:				2013-01-26 21:47:46
 title:			Soothers Sounds
 image:			../img/soothers_thumb.jpg
 excerpt:		Website and Promotion

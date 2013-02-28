@@ -1,9 +1,9 @@
 ---
 layout:		post
-date:			2008-05-10
+date:			2013-01-20
 title:		Reptiles at Ding Dong
 excerpt:	All greasy hair and zombie stares, from the first chord these guys pushed the basement button on the elevator to hell.
-category:	reviews
+category:	articles
 ---
 
 *Featured in InPress*

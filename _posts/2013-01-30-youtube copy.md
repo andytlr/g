@@ -1,6 +1,6 @@
 ---
 layout:			post
-date:				2013-01-21 21:47:46
+date:				2013-01-30 21:47:46
 title:			YouTube Get More Into Music
 image:			../img/youtube_thumb.jpg
 excerpt:		Campaign

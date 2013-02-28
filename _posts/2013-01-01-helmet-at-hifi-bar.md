@@ -1,9 +1,9 @@
 ---
 layout:		post
-date:			2008-05-03
+date:			2013-01-01
 title:		Helmet at HiFi Bar
 excerpt:	Sweaty refugees from the pit are stumbling back towards the bar to grab another beer and some air before diving back in. Meanwhile, Hamilton stands almost immobile, sweat dripping off his arms, raining heavy riffage down on the receding hairlines of the crowd below.
-category:	reviews
+category:	articles
 ---
 
 *Featured in InPress*
