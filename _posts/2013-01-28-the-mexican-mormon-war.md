@@ -8,7 +8,7 @@ category: articles
 
 *Featured on Non-Fictional*
 
-**God, Guns, Drugs and Wives**
+## God, Guns, Drugs and Wives ##
 
 Anyone paying even the most cursory attention to what’s going on in Mexico right now knows that place is in serious trouble.
 

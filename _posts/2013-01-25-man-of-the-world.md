@@ -8,7 +8,7 @@ category: articles
 
 *Featured on Non-Fictional*
 
-**Go (Insane) Your Own Way**
+## Go (Insane) Your Own Way ##
 
 My love of seventies cocaine era Fleetwood Mac is well documented, but up until now my knowledge of the band’s early history, prior to Stevie Nicks and Lindsay Buckingham joining, was virtually nil.
 
