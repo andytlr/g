@@ -3,7 +3,6 @@ layout: post
 date: 2011-09-02 21:47:46
 title: Vasco Era at The Corner
 excerpt: What you don’t get is the energy and confidence that washes off the band and bounces back from the crowd – it’s blistering, dangerous and unsteady, but exhilarating at the same time.
-image: ../img/vasco.jpg
 category: articles
 ---
 
