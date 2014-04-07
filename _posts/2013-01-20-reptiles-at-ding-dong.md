@@ -8,8 +8,7 @@ category:	articles
 
 *Featured in InPress*
 
-The problem with being fashionably late to gigs is that occasionally you'll miss out on seeing some fucking cool shit. And when Damn Terran played at Ding Dong on Saturday night, a lot of people missed out.
-Despite a crowd that consisted of little more than two drunk dudes and a photographer, these guys where giving it fucking hell. Playing like they hated their instruments, they pounded out a set of loud, discordant post punk that sounded like the end of the world. Check them out.
+The problem with being fashionably late to gigs is that occasionally you'll miss out on seeing some fucking cool shit. And when Damn Terran played at Ding Dong on Saturday night, a lot of people missed out. Despite a crowd that consisted of little more than two drunk dudes and a photographer, these guys where giving it fucking hell. Playing like they hated their instruments, they pounded out a set of loud, discordant post punk that sounded like the end of the world. Check them out.
 			
 Next on were the Terrordactyls, collectively they definitely had the best hair of the night. Playing sample and loop heavy electro-screech it's pretty clear these guys have been listening to a lot of Crystal Castles lately.
 			

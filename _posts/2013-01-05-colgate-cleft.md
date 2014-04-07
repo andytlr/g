@@ -2,11 +2,11 @@
 layout: post
 date: 2013-01-05 21:47:46
 title: Colgate - Does My Baby Have a Cleft Lip or Palate?
-excerpt: One in every 700 babies in the United States is born with a cleft, or split, upper lip. Slightly fewer are born with cleft palates — where a direct hole exists between the roof of the mouth and the floor of the nose. 
+excerpt: One in every 700 babies in the United States is born with a cleft, or split upper lip. Slightly fewer are born with cleft palates — where a direct hole exists between the roof of the mouth and the floor of the nose. 
 category: content
 ---
 
-One in every 700 babies in the United States is born with a cleft, or split, upper lip. Slightly fewer are born with cleft palates — where a direct hole exists between the roof of the mouth and the floor of the nose.
+One in every 700 babies in the United States is born with a cleft, or split upper lip. Slightly fewer are born with cleft palates — where a direct hole exists between the roof of the mouth and the floor of the nose.
 
 Both conditions are serious and occur when the two sides of a baby’s face fail to unite properly in the womb, but no one knows exactly why. Cleft lips and palates have a tendency to run in families. Hormonal imbalances, nutritional deficiencies, and certain drugs used during pregnancy are possible environmental causes.
 

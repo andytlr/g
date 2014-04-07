@@ -6,7 +6,7 @@ excerpt: As the weather turns and the thermometer begins to drop, we all start t
 category: content
 ---
 
-As the weather turns and the thermometer begins to drop, we all start to think about how we can prepare our homes and ourselves for the coming winter months. With a little forethought, you can ensure you stays safe, snug and dry, and save on some energy bills while you’re at it.
+As the weather turns and the thermometer begins to drop, we all start to think about how we can prepare our homes and ourselves for the coming winter months. With a little forethought, you can ensure you stay safe, snug and dry, and save on some energy bills while you’re at it.
 
 ## Draft Proofing ##
 
