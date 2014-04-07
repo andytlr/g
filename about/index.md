@@ -11,13 +11,14 @@ gareth@garethsweet.com
 
 ## Work Experience ##
 
-* Jul/12 – Present 	Freelance Writer
+* Apr/13 – Present  Senior Integrated Copywriter – CHE Proximity
+* Jul/12 – Apr/13   Freelance Copywriter
 * Nov/11 – Jun/12 	Copywriter - Whybin TBWA/Tequila
 * Sep/09 – Oct/11 	Copywriter - Mark/M&C Saatchi
 * Jun/06 – Sep/09 	Copywriter - CumminsNitro
-* Jun/05 – Jun/06  	Copywriter - Smart
+* Jun/05 – Jun/06   Copywriter - Smart
 * Jan/05 – Jun/05 	Copywriter Freelance
-* 1995 – 2004 		The Exciting World of Finance
+* 1995 – 2004 		  The Exciting World of Finance
 
 ## Awards ##
 

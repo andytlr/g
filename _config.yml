@@ -3,7 +3,7 @@ auto:        false
 server:      false
 server_port: 4000
 baseurl:     /
-name: Gareth Sweet, Word Man About Town
+name: Gareth Sweet, Senior Integrated Copywriter
 url: http://garethsweet.com
 google-analytics-tracking-id: UA-XXXXXXX-X
 
@@ -33,7 +33,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-  
+
   coderay:
     coderay_wrap: div
     coderay_line_numbers: inline
