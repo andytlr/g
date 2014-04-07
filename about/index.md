@@ -1,24 +1,46 @@
 ---
 layout: page
-title: About
+title: Gareth Sweet
 class: about
 ---
 
-## Contact ##
-
-0410 874 283  
-gareth@garethsweet.com
+<gareth@garethsweet.com>  
+0410 874 283
 
 ## Work Experience ##
 
-* Apr/13 – Present  Senior Integrated Copywriter – CHE Proximity
-* Jul/12 – Apr/13   Freelance Copywriter
-* Nov/11 – Jun/12   Copywriter - Whybin TBWA/Tequila
-* Sep/09 – Oct/11   Copywriter - Mark/M&C Saatchi
-* Jun/06 – Sep/09   Copywriter - CumminsNitro
-* Jun/05 – Jun/06   Copywriter - Smart
-* Jan/05 – Jun/05   Copywriter Freelance
-* 1995 – 2004       The Exciting World of Finance
+#### Senior Integrated Copywriter --- CHE Proximity
+
+April 2013 -- Present
+
+#### Freelance Copywriter
+
+July 2012 -- April 2013
+
+#### Copywriter --- Whybin TBWA/Tequila
+
+November 2011 -- June 2012
+
+#### Copywriter --- Mark/M&C Saatchi
+
+September 2009 -- October 2011
+
+#### Copywriter --- CumminsNitro
+
+June 2006 -- September 2009
+
+#### Copywriter --- Smart
+
+June 2005 -- June 2006
+
+#### Copywriter Freelance
+
+January 2005 -- June 2005
+
+#### The Exciting World of Finance
+
+1995 -- 2004
+
 
 ## Awards ##
 

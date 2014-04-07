@@ -22,6 +22,19 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: bold !important;
+	line-height: 1.1;
+}
+
+h2 {
+	margin-top: 2em;
+}
+
+h4 {
+	margin-bottom: 0.3em;
+}
+
+p {
+	margin-top: 0.3em;
 }
 
 a {
@@ -50,27 +63,27 @@ ul, ol {
 	#posts li.articles {
 		background: #2096a3;
 	}
-	
+
 	#posts>li.articles:nth-of-type(1n) {
 		background: #2096a3;
 	}
-	
+
 	#posts>li.articles:nth-of-type(2n) {
 	  background: #1d8792;
 	}
-	
+
 	#posts>li.articles:nth-of-type(3n) {
 		background: #1b808b;
 	}
-	
+
 	#posts>li.articles:nth-of-type(4n) {
 		background: #1a7882;
 	}
-	
+
 	#posts>li.articles:nth-of-type(5n) {
 		background: #18707a;
 	}
-	
+
 	#posts li.content {
 		background: #DA6516;
 	}
@@ -83,7 +96,7 @@ ul, ol {
 	width: 100%;
 	height: auto;
 }
-	
+
 .posttileinner {
 	padding: 20px;
 	min-height: 300px;
@@ -142,8 +155,9 @@ ul, ol {
 			font-size: 18px;
 			text-align: center;
 			margin: 0;
+			line-height: 70px;
 		}
-		
+
 		.sitetitle a {
 			color: #272d2c;
 			text-decoration: none;
@@ -156,12 +170,12 @@ ul, ol {
 			font-size: 24px;
 			margin: 0 0 10px 0;
 		}
-		
+
 		.tiletitle a {
 			color: #fff;
 			text-decoration: none;
 		}
-		
+
 		.hasimage .posttileinner .tiletitle a {
 			color: #fff;
 		}
