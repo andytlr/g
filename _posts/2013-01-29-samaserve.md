@@ -1,9 +1,9 @@
 ---
 layout:			post
-date:				2013-01-29 21:47:46
-title:			ANZ Give Sam A Serve
+date:			2013-01-29 11:58:00
+title:			ANZ Give Sam a Serve
 image:			../img/sam_thumb.png
-excerpt:		Campaign
+excerpt:		Digital Activation
 category:		advertising
 published:	true
 ---
