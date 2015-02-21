@@ -8,10 +8,10 @@ category:		advertising
 published:	true
 ---
 
-{% youtube 6hA_DTRWG0A %}
+{% youtube p6XbF8VX37s %}
 
-{% youtube XkMhSzPUZ6w %}
+{% youtube Aly83gtPtqk %}
 
-{% youtube uIQghV0JaP0 %}
+{% youtube lkjc1iSQjs4 %}
 
-{% youtube Y-M-oThYwqM %}
+{% youtube oEXWKx562kY %}
