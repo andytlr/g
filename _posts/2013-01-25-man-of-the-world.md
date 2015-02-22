@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2013-01-25
-title: Peter Green - Man of the World
-excerpt: While the music for the most part is just as dull as I’d imagined it would be (at one point Peter is compared to the most boring guitarist on earth, Eric Clapton), the story of Peter and the band’s formation is not.
+title: "Peter Green – Man of the World"
+excerpt: "While the music for the most part is just as dull as I’d imagined it would be (at one point Peter is compared to the most boring guitarist on earth, Eric Clapton), the story of Peter and the band’s formation is not."
 category: articles
 ---
 

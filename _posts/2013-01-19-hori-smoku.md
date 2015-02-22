@@ -12,7 +12,7 @@ category: articles
 
 [Ozzie Osbourne has gone on record many, many times saying if you want to be different, or you want to be special – don’t get a tattoo](http://www.time.com/time/magazine/article/0,9171,1957475,00.html).
 
-And he’s right. When every second dipshit sport star and soccer mum is proudly flaunting half and even full sleeves, you pretty much know that all the rebellion has been sucked out of that particular pastime. These days it’s right up there with wearing a bathing suit that reveals your knees - it doesn’t even warrant a second look.
+And he’s right. When every second dipshit sport star and soccer mum is proudly flaunting half and even full sleeves, you pretty much know that all the rebellion has been sucked out of that particular pastime. These days it’s right up there with wearing a bathing suit that reveals your knees -- it doesn’t even warrant a second look.
 
 But it wasn’t always like that. Back in the day, tattoos were badass and being a tattooists was about as badass as it comes.
 
