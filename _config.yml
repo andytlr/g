@@ -8,6 +8,7 @@ google-analytics-tracking-id: UA-XXXXXXX-X
 source:      .
 destination: ./_site
 plugins:     ./_plugins
+exclude: [deploy.sh]
 
 future:      true
 lsi:         false
