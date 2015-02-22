@@ -97,6 +97,11 @@ ul, ol {
 	height: auto;
 }
 
+.post img {
+	max-width: 100%;
+	height: auto;
+}
+
 .posttileinner {
 	padding: 20px;
 	min-height: 300px;
