@@ -14,7 +14,7 @@ As a major sponsor of The Australian Open, ANZ wanted something new and innovati
 
 ### The solution ###
 
-ANZ gave tennis fans a once in a lifetime opportunity - the chance to play one-on-one against Australia’s top ranked player -- Sam Stosur.
+ANZ gave tennis fans a once in a lifetime opportunity -- the chance to play one-on-one against Australia’s top ranked player -- Sam Stosur.
 
 Using Sam, we shot and created a live action 3D tennis game that was played on a specially built indoor tennis court inside the corporate area.
 

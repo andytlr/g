@@ -22,7 +22,7 @@ Next on was a bunch of guys who looked like they'd stepped straight out of 'Daze
 			
 Initially, their particular brand of psychedelic-stoner-space-rock was a little confusing. This was mainly because the mix on the vocals was so bad. You really had to strain to hear anything more than muffled gibberish and garbled yelps over the rest of the band.
 			
-By the middle of the set I decided this probably (I hope) wasn't intentional, and began to enjoy them anyway. With their jungle drumming, squally guitar and odd space noises they reminded me a little of Hawkwind. Their set ended with a crazy cosmic freak out that saw the band in a group hug, all jump into the drum kit - but carefully. After all those things are expensive.
+By the middle of the set I decided this probably (I hope) wasn't intentional, and began to enjoy them anyway. With their jungle drumming, squally guitar and odd space noises they reminded me a little of Hawkwind. Their set ended with a crazy cosmic freak out that saw the band in a group hug, all jump into the drum kit -- but carefully. After all those things are expensive.
 			
 The place was packed now, a sausage-fest of nineties throwbacks and their little brothers. A real beer and potatoes crowd – just the sort a venue loves.
 			

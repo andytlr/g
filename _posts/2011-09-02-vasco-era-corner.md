@@ -30,7 +30,7 @@ The songs are pain and joy in equal amounts, but you can get that from the album
 
 They play “Child Bearing Hips’, the first single from their new album, but they don’t make a big deal about it. Now the audience is a sea of pumping fists; stage divers rise and fall across their shoulders like it’s the Nineties all over again.
 
-More new songs follow. One, ‘Rock and Roll Is All That Makes Me Feel Good’ sounds like the bastard child of The Modern Lovers and AC/DC, while another - the new, slow song that Sid encourages everyone to get a drink for, sounds like Pavement on smackie pills.
+More new songs follow. One, ‘Rock and Roll Is All That Makes Me Feel Good’ sounds like the bastard child of The Modern Lovers and AC/DC, while another -- the new, slow song that Sid encourages everyone to get a drink for, sounds like Pavement on smackie pills.
 
 The gig ends with several members of the supporting bands getting up on stage to join in on a cover of Dylan’s ‘Like a Rolling Stone’. It’s a messy, drunken kiss goodbye that has the whole crowd singing along. It’s also here that my good friend Randy turned to me and said ‘Dylan hasn’t sounded this raucous since he was a speed addict’. Which, for me, pretty much sums up the whole gig.
 

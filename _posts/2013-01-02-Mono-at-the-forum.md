@@ -36,4 +36,4 @@ This isn’t music to fuck to; it’s music to get in the mood to fuck to.
 
 Maybe it’s around here that I start reaching for superlatives. Orchestral, cinematic and sweeping have already been taken. Words like expansive, emotive, visceral and glorious come to mind but none of them do it justice. In fact they all sound kind of lame in comparison.
 
-It isn’t until the end that my girlfriend turns to me and sums the whole experience up perfectly simply with the words - ‘So fucking good’.
+It isn’t until the end that my girlfriend turns to me and sums the whole experience up perfectly simply with the words -- ‘So fucking good’.
