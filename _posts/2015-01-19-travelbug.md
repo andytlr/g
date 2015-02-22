@@ -18,7 +18,7 @@ Battling an already crowded market, we needed to encourage people to explore the
 
 ### The solution ###
 
-We created The Travel Bug, a quirky character that hung around the Traveller office. Visitors to the site needed to find him hidden in images throughout the pages of Traveller.com.au. Once found and clicked people go into a draw for daily prizes and a grand prize - an all expenses paid trip to India for two people.We cast the Travel Bug, shot content and created all of the campaign assets for less than AUD$15,000.
+We created The Travel Bug, a quirky character that hung around the Traveller office. Visitors to the site needed to find him hidden in images throughout the pages of Traveller.com.au. Once found and clicked people go into a draw for daily prizes and a grand prize -- an all expenses paid trip to India for two people.We cast the Travel Bug, shot content and created all of the campaign assets for less than AUD$15,000.
 
 ![]({{ site.baseurl }}img/travelbug1.png)
 
