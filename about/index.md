@@ -9,9 +9,13 @@ class: about
 
 ## Work Experience ##
 
+#### Senior Creative --- The Royals
+
+April 2014 -- Present
+
 #### Senior Integrated Copywriter --- CHE Proximity
 
-April 2013 -- Present
+April 2013 -- April 2014
 
 #### Freelance Copywriter
 
