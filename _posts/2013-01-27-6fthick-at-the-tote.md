@@ -4,6 +4,7 @@ date:			2013-01-27
 title:		6FtHick at The Tote
 excerpt:	Cripple knee'd and full of drunken swagger, these guys bashed out a set of country-fried death rock that would have made both Nick Cave and Townes Van Zandt punch holes in their coffins.
 category:	articles
+published: false
 ---
 
 *Featured in InPress*

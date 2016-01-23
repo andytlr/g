@@ -5,7 +5,7 @@ title:			Creative Zen MP3 Player
 image:			../img/creativezen_thumb.jpg
 excerpt:		Ambient sticker campaign
 category:		advertising
-published:	true
+published:	false
 ---
 
 ![]({{ site.baseurl }}img/creativezen1.jpg)

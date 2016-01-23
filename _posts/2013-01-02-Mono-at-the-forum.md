@@ -4,6 +4,7 @@ date: 2013-01-02 21:47:46
 title: Mono at the Forum
 excerpt: There’s a quiet intensity to the music; with the shadowy, synchronised movements of the orchestra, like waves rising and crashing, providing a fitting visual.
 category: articles
+published: false
 ---
 
 *Featured in VeriLive*
