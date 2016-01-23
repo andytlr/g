@@ -1,0 +1,486 @@
+---
+/Users/andytlr/github/g/_posts/2011-09-02-vasco-era-corner.md:
+  mtime: 2015-02-22 12:41:37.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-01-helmet-at-hifi-bar.md:
+  mtime: 2015-02-22 12:41:37.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-01-dixons.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-02-Mono-at-the-forum.md:
+  mtime: 2015-02-22 12:41:37.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-02-creativezen.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-04-connoisseur.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-05-guru-guru-at-the-toff-in-town.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-06-bic.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-15-podfrey.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-19-hori-smoku.md:
+  mtime: 2015-02-22 12:41:37.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-20-reptiles-at-ding-dong.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-20-betadine.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-22-dkny.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-22-iprimus.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-23-stoked.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-24-frequentflyer.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-25-man-of-the-world.md:
+  mtime: 2015-02-22 12:46:04.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-26-fraudsquad.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-26-soothers-sounds.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-27-6fthick-at-the-tote.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-28-the-mexican-mormon-war.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-28-emi.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-29-samaserve.md:
+  mtime: 2015-02-22 12:40:12.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2013-01-30-youtube.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2014-04-07-telstra.md:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2014-04-16-ahm.md:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2015-01-18-intel.md:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2015-01-19-travelbug.md:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/_posts/2015-01-20-glengrant.md:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/post.html
+/Users/andytlr/github/g/index.html:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_home.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/index.html
+/Users/andytlr/github/g/about/index.md:
+  mtime: 2015-04-25 11:03:35.000000000 -07:00
+  deps:
+  - /Users/andytlr/github/g/_includes/header.html
+  - /Users/andytlr/github/g/_includes/masthead_inner.html
+  - /Users/andytlr/github/g/_includes/pagenav.html
+  - /Users/andytlr/github/g/_includes/footer.html
+  - /Users/andytlr/github/g/_layouts/page.html
+/Users/andytlr/github/g/assets/jquery.isotope.min.js:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/assets/normalize.css:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/assets/styles.css:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/Intel_RR.jpg:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/ahm_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/betadine.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/betadine_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/betstar.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/betstar_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/bic1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/bic2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/bic3.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/bic_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/connoisseur1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/connoisseur2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/connoisseur3.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/connoisseur_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/creativezen1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/creativezen2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/creativezen3.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/creativezen_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dixons1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dixons2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dixons3.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dixons_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dkny1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dkny2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dkny3.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dkny4.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/dkny_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/emi_artwork.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/emi_browser.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/emi_liner.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/emi_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/etrade.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/etrade_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/fraudsquad_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/frequentflyer_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/gareth.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/iprimus1.png:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/iprimus2.png:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/iprimus3.png:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/iprimus_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/lowratemc_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/podfrey1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/podfrey2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/podfrey_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/sam1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/sam2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/sam3.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/sam4.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/sam5.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/sam6.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/sam7.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/sam_thumb.png:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/soothers1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/soothers2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/soothers3.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/soothers_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/telstra-dm.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/telstra-exhibition.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/telstra-inside-1.png:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/telstra-inside-2.png:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/telstra_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/travelbug1.png:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/travelbug2.png:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/travelbug_outdoor.jpg:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/travelbug_thumb.jpg:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/yacht.jpg:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/yacht_thumb.jpg:
+  mtime: 2015-02-22 12:31:44.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/youtube_300x250_1.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/youtube_300x250_2.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/youtube_300x250_3.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/youtube_300x250_4.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/youtube_banner.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/img/youtube_thumb.jpg:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/_includes/header.html:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/_includes/masthead_inner.html:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
+/Users/andytlr/github/g/_includes/masthead_home.html:
+  mtime: 2015-01-10 19:28:58.000000000 -08:00
+  deps: []
