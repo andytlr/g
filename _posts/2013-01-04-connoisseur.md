@@ -5,7 +5,7 @@ title:			Connoisseur Gourmet Yoghurt
 image:			../img/connoisseur_thumb.jpg
 excerpt:		Print Campaign
 category:		advertising
-published:	true
+published:	false
 ---
 
 ![]({{ site.baseurl }}img/connoisseur1.jpg)

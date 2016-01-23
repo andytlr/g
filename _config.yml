@@ -7,7 +7,7 @@ google-analytics-tracking-id: UA-XXXXXXX-X
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
+plugins_dir: ./_plugins
 exclude: [deploy.sh]
 
 future:      true
@@ -30,7 +30,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_wrap: div

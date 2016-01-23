@@ -4,6 +4,7 @@ date:			2013-01-05
 title:		Guru Guru at The Toff in Town
 excerpt:	Things take a turn for the hilarious when some lone acid casualty, leaps up at the front of the stage and begins waving his arms around in the air like Syd Barrett -- if Syd Barrett couldn't dance and was engulfed in flames.
 category:	articles
+published: false
 ---
 
 *Featured in InPress*

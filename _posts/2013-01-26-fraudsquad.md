@@ -5,7 +5,7 @@ title:			ANZ Sneaky Thief
 image:			../img/fraudsquad_thumb.jpg
 excerpt:		Campaign
 category:		advertising
-published:	true
+published:	false
 ---
 
 ANZ, one of Australia’s biggest banks, asked us to develop an online campaign to launch their Fraud Money Back Guarantee. The guarantee promises that if your account details are stolen and used fraudulently, the bank will refund any loss.

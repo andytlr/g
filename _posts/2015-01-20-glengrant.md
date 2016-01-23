@@ -8,6 +8,8 @@ category:		advertising
 published:	true
 ---
 
+{% youtube X0s8jEmbxHI %}
+
 {% youtube p6XbF8VX37s %}
 
 {% youtube Aly83gtPtqk %}
