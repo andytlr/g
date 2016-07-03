@@ -7,44 +7,11 @@ class: about
 <gareth@garethsweet.com>  
 0410 874 283
 
-## Work Experience ##
+##  ##
 
-#### Senior Creative --- The Royals
+#### About
 
-April 2014 -- Present
-
-#### Senior Integrated Copywriter --- CHE Proximity
-
-April 2013 -- April 2014
-
-#### Freelance Copywriter
-
-July 2012 -- April 2013
-
-#### Copywriter --- Whybin TBWA/Tequila
-
-November 2011 -- June 2012
-
-#### Copywriter --- Mark/M&C Saatchi
-
-September 2009 -- October 2011
-
-#### Copywriter --- CumminsNitro
-
-June 2006 -- September 2009
-
-#### Copywriter --- Smart
-
-June 2005 -- June 2006
-
-#### Copywriter Freelance
-
-January 2005 -- June 2005
-
-#### The Exciting World of Finance
-
-1995 -- 2004
-
+After an ill-advised detour into the exciting world of accounting, I chose to leave the glamour of spreadsheets behind and instead devote his energies to the much more serious world of advertising. As a copywriter I've has worked across a range of clients at a number of agencies in Melbourne including Cummins and Partners, M&C Saatchi and most recently The Royals. My work's been recognized at various award shows including AWARD, Caples, MADC, ADMA and the highly sought after NineMSN Butterfly Awards.
 
 ## Awards ##
 
@@ -60,30 +27,4 @@ January 2005 -- June 2005
 
 Bachelor of Commerce, Murdoch University
 
-## Client Experience ##
 
-* Foxtel
-* Telstra
-* ahm Health Insurance
-* GE Finance
-* ANZ
-* EMI Music
-* Nestle Soothers
-* Nissan
-* HWT Newspapers
-* Mainland Cheese
-* Ski Yoghurt
-* Virgin Blue Airlines
-* Victoria University
-* Glaxo Smith Kline
-* Connect East (EastLink Motorway)
-* Connoisseur Yoghurt
-* GM Holden
-* eChoice Home Loans
-* Yarra Trams
-* Bic Pens
-* Betadine Antiseptic
-* Europcar Car Rental
-* iPrimus Telecommunications
-* Realestate.com
-* Stihl
