@@ -7,8 +7,7 @@ excerpt:		Live Stream Content
 category:		advertising
 published:	true
 ---
-
-{% youtube Ac3v4X0cnl8 %}
+{% vimeo 173703881 %}
 
 A place for students to relieve their stress without having to deal with the mess.
 

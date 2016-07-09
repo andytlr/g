@@ -5,7 +5,7 @@ title:			Intel Rewind Regret
 image:			../img/Intel_RR.jpg
 excerpt:		TVC
 category:		advertising
-published:	true
+published:	false
 ---
 
 People have forgotten to look inside new devices before they buy them. Only to realise once they get them home that they may not be able to do everything they assumed they could, because the processor inside wasn’t good enough. This campaign needed to remind people to take the time to look inside and increase consideration for Intel powered devices.
