@@ -7,46 +7,11 @@ class: about
 <gareth@garethsweet.com>  
 0410 874 283
 
-## Work Experience ##
+## About
 
-#### Senior Creative --- The Royals
+After an ill-advised detour into the exciting world of accounting, I chose to leave the glamour of spreadsheets behind and instead devote my energies to the much more serious world of advertising.As a copywriter I've worked across a range of clients at a number of agencies in Melbourne including Cummins and Partners, M&C Saatchi and most recently The Royals.My work's been recognized at various award shows including AWARD, Caples, MADC, ADMA and the highly sought after NineMSN Butterfly Awards.
 
-April 2014 -- Present
-
-#### Senior Integrated Copywriter --- CHE Proximity
-
-April 2013 -- April 2014
-
-#### Freelance Copywriter
-
-July 2012 -- April 2013
-
-#### Copywriter --- Whybin TBWA/Tequila
-
-November 2011 -- June 2012
-
-#### Copywriter --- Mark/M&C Saatchi
-
-September 2009 -- October 2011
-
-#### Copywriter --- CumminsNitro
-
-June 2006 -- September 2009
-
-#### Copywriter --- Smart
-
-June 2005 -- June 2006
-
-#### Copywriter Freelance
-
-January 2005 -- June 2005
-
-#### The Exciting World of Finance
-
-1995 -- 2004
-
-
-## Awards ##
+## Awards
 
 * 2011 MADC Bronze. Digital Innovation
 * 2011 AWARD Finalist. Online Ad – Banner Ad
@@ -56,34 +21,6 @@ January 2005 -- June 2005
 * 2010 Ninemsn Butterfly Award for Best Rich Media Banner
 * 2007 MADC Finalist. Best Ambient/Non-Traditional Media Campaign
 
-## Qualifications ##
+## Qualifications
 
 Bachelor of Commerce, Murdoch University
-
-## Client Experience ##
-
-* Foxtel
-* Telstra
-* ahm Health Insurance
-* GE Finance
-* ANZ
-* EMI Music
-* Nestle Soothers
-* Nissan
-* HWT Newspapers
-* Mainland Cheese
-* Ski Yoghurt
-* Virgin Blue Airlines
-* Victoria University
-* Glaxo Smith Kline
-* Connect East (EastLink Motorway)
-* Connoisseur Yoghurt
-* GM Holden
-* eChoice Home Loans
-* Yarra Trams
-* Bic Pens
-* Betadine Antiseptic
-* Europcar Car Rental
-* iPrimus Telecommunications
-* Realestate.com
-* Stihl
