@@ -7,11 +7,9 @@ class: about
 <gareth@garethsweet.com>  
 0410 874 283
 
-##  ##
+## About
 
-#### About
-
-After an ill-advised detour into the exciting world of accounting, I chose to leave the glamour of spreadsheets behind and instead devote my energies to the much more serious world of advertising. As a copywriter I've worked across a range of clients at a number of agencies in Melbourne including Cummins and Partners, M&C Saatchi and most recently The Royals. My work's been recognized at various award shows including AWARD, Caples, MADC, ADMA and the highly sought after NineMSN Butterfly Awards.
+After an ill-advised detour into the exciting world of accounting, I chose to leave the glamour of spreadsheets behind and instead devote my energies to the much more serious world of advertising.As a copywriter I've worked across a range of clients at a number of agencies in Melbourne including Cummins and Partners, M&C Saatchi and most recently The Royals.My work's been recognized at various award shows including AWARD, Caples, MADC, ADMA, Spikes and the highly sought after NineMSN Butterfly Awards.
 
 ## Awards ##
 
@@ -25,8 +23,6 @@ After an ill-advised detour into the exciting world of accounting, I chose to le
 * 2010 Ninemsn Butterfly Award. Best Rich Media Banner. ANZ Sneaky Thief
 * 2007 MADC Finalist. Best Ambient/Non-Traditional Media Campaign. Kiss it Betadine
 
-## Qualifications ##
+## Qualifications
 
 Bachelor of Commerce, Murdoch University
-
-
