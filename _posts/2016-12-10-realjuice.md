@@ -24,14 +24,14 @@ We drove out to the middle of the Australian outback to find real people who wou
 
 {% vimeo 193804865 %}
 
-![]({{ site.baseurl }}img/real_print_1.jpg)
+![]({{ site.baseurl }}img/real_1.jpg)
 
-![]({{ site.baseurl }}img/real_print_2.jpg)
+![]({{ site.baseurl }}img/real_2.jpg)
 
-![]({{ site.baseurl }}img/real_print_3.jpg)
+![]({{ site.baseurl }}img/real_3.jpg)
 
-![]({{ site.baseurl }}img/real_print_4.jpg)
+![]({{ site.baseurl }}img/real_4.jpg)
 
-![]({{ site.baseurl }}img/real_print_5.jpg)
+![]({{ site.baseurl }}img/real_5.jpg)
 
-![]({{ site.baseurl }}img/real_print_6.jpg)
+![]({{ site.baseurl }}img/real_6.jpg)
