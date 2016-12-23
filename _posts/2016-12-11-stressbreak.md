@@ -1,6 +1,6 @@
 ---
 layout:			post
-date:			2016-12-11 11:58:00
+date:			  2016-12-11 11:58:00
 title:			Deakin Stress Break
 image:			../img/stressbreak_thumb.jpg
 excerpt:		Live Stream Content
