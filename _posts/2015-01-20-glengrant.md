@@ -7,13 +7,16 @@ excerpt:		Social Content
 category:		advertising
 published:	true
 ---
+{% vimeo 193822534 %}
 
-{% youtube X0s8jEmbxHI %}
+{% vimeo 193822431 %}
 
-{% youtube p6XbF8VX37s %}
+{% vimeo 193822633 %}
 
-{% youtube Aly83gtPtqk %}
+{% vimeo 193822818 %}
 
-{% youtube lkjc1iSQjs4 %}
+{% vimeo 193824258 %}
 
-{% youtube oEXWKx562kY %}
+{% vimeo 193822708 %}
+
+
