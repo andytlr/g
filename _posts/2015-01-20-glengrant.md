@@ -7,6 +7,7 @@ excerpt:		Social Content
 category:		advertising
 published:	true
 ---
+
 {% vimeo 193822534 %}
 
 {% vimeo 193822431 %}
