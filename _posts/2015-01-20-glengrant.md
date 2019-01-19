@@ -8,12 +8,16 @@ category:		advertising
 published:	true
 ---
 
-{% youtube X0s8jEmbxHI %}
+{% vimeo 193822534 %}
 
-{% youtube p6XbF8VX37s %}
+{% vimeo 193822431 %}
 
-{% youtube Aly83gtPtqk %}
+{% vimeo 193822633 %}
 
-{% youtube lkjc1iSQjs4 %}
+{% vimeo 193822818 %}
 
-{% youtube oEXWKx562kY %}
+{% vimeo 193824258 %}
+
+{% vimeo 193822708 %}
+
+
