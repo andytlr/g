@@ -1,6 +1,6 @@
 ---
 layout:			post
-date:			  2016-12-12 12:47:00
+date:			  2016-12-12 11:58:00
 title:			Real Wholesome Blend
 image:			../img/real_thumb.jpg
 excerpt:		Campaign
